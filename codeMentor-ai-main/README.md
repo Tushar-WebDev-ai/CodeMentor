@@ -25,36 +25,6 @@ Competitive programming is fun, but tracking everything isn’t..
 
 ---
 
-## 🏆 Hackathon Info
-
-* **Team Name:** `anurag12sharma`
-* **Members:**
-  1. Anurag Sharma
-* **Hackathon Theme:** Theme 1
-* **Challenge Addressed:** 
-  * 🚨 **The Problem**: Programmers spend too much time juggling multiple platforms just to track contests.
-  * 💡 **The Solution**: A single AI-powered Discord bot that tracks the contests for them, recommends contests and sends timely reminders.
-  * 📈 **Impact**: Saves 20+ minutes daily & boosts contest participation by 40%
-* **What I Built:** **CodeMentor AI**: an AI-powered Discord bot that:
-  * 🎯 Tracks live contests from major platforms like Codeforces, CodeChef, & LeetCode.
-  * 📅 Can add any upcoming contest directly to your Google Calendar.
-  * ⚡ Sends smart reminders (never miss a contest again!)
-  * 🤖 Gives personalised study plans and strategies for any topic using Google Gemini
-  * ✅ Recommends contests based on your skill level
-* **How to Run:**
-  👉 Follow the [Quick Start](#-quick-start) guide to set up locally.
-* **Tech Stack:**
-  * **Required Tech:** Discord.js, Google Gemini API, Descope SDK
-  * **Others:** Node.js, Express, MongoDB, EJS, Bootstrap, CompeteAPI, Railway, Vercel
-* **Demo Video:** [Watch Here](https://youtu.be/DGjZNULqRA8)
-* **With More Time, I’d Add:**
-  * Weekly contests + leaderboards
-  * In-Bot Practice Mode, coding challenges with AI-suggested problems tailored to each user’s progress.
-  * AI-driven personalized mock interviews
-  * Gamified rewards system for consistent practice
-
----
-
 ## ✨ Features
 
 ### 🏆 Real-Time Contest Tracking
